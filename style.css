@@ -60,3 +60,14 @@ header li img
 {
     color: royalblue;
 }
+.copyright_footer{
+    position: fixed;
+    color: antiquewhite;
+    bottom: 0;
+    width: 100%;
+    background-color: antiquewhite;
+    line-height: 3;
+    text-align: center;
+    left: 0;
+
+}
