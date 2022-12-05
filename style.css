@@ -1,0 +1,33 @@
+body
+{
+    background-color: aliceblue;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    text-align: center;
+}
+
+header
+{
+    background-color: white;
+    padding: 15px;
+    box-shadow:0 0 3px ; color: black;
+}
+
+header li
+{
+    display: inline;
+    padding-left: 45px;
+}
+
+header li a
+{
+  color: black;  
+  text-decoration: none;
+  padding: 13px;
+  transition: .3s ease;
+}
+header li a:hover
+{
+  color: royalblue;    
+}
